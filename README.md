@@ -3,11 +3,11 @@ This repository is for sharing efforts to explore Ruth Bader Ginsburg's Supreme 
 
 **Collection**
 ---
-Contains the sources, methods, and scripts used to acquire every majority, concurring, and dissenting opinion authored by RBG during her tenure as a U.S. Supreme Court Justice. 
+Describes the sources, methods, and scripts used to acquire every majority, concurring, and dissenting opinion authored by RBG during her tenure as a U.S. Supreme Court Justice. 
 
 **Cleaning**
 ---
-Contains the methods, scripts, and status of efforts to prep the texts for computational analysis. 
+Describes the methods, scripts, and status of efforts to prep the texts for computational analysis. 
 
 **Analysis**
 ---
