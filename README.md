@@ -1,17 +1,17 @@
 # Text-Mining-RBG
 This repository is for sharing efforts to explore Ruth Bader Ginsburg's Supreme Court opinions.
 
-**Corpus Collection**
+**Corpus Analysis**
 ---
-Holds the sources, methods, and scripts used to acquire every majority, concurring, and dissenting opinion authored by RBG during her tenure as a U.S. Supreme Court Justice. 
+Coming Soon. 
 
 **Corpus Cleaning**
 ---
 Holds the methods, scripts, and status of efforts to prep the texts for computational analysis. 
 
-**Corpus Analysis**
+**Corpus Collection**
 ---
-Coming Soon. 
+Holds the sources, methods, and scripts used to acquire every majority, concurring, and dissenting opinion authored by RBG during her tenure as a U.S. Supreme Court Justice. 
 
 **Contributions**
 ---
