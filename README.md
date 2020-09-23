@@ -15,4 +15,4 @@ Coming Soon.
 
 **Contributions**
 ---
-Contributions from anyone with an interest in exploring RBG's opinions are welcome. Newbie text miners, experienced developers, and non-coders alike. We explore together. If you're new to GitHub and unfamiliar with pull requests, you can e-mail laurissastokes@gmail.com. 
+Contributions from anyone with an interest in exploring RBG's opinions are welcome. Newbie text miners, experienced developers, and non-coders alike. We explore together. If you're new to GitHub and unfamiliar with pull requests, you can e-mail laurissastokes@gmail.com. Check the Issues tab for things that are currently being worked. 
